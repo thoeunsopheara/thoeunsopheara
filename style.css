@@ -301,18 +301,23 @@ body{
 }
 
 .skills .content .col-right .bar .laravel:before{
-  width: 95%;
+  width: 90%;
   background: #e45126;
 }
 
+.skills .content .col-right .bar .symfony:before{
+  width: 70%;
+  background: #655f5e;
+}
+
 .skills .content .col-right .bar .nest:before{
-  width: 85%;
+  width: 80%;
   background: #0c73b8;
 }
 
-.skills .content .col-right .bar .vue:before{
-  width: 85%;
-  background: #30dd6d;
+.skills .content .col-right .bar .react:before{
+  width: 80%;
+  background: #61dafb;
 }
 
 .skills .content .col-right .bar .svelte:before{
