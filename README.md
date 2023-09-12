@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on web development with Laravel, Symfony, Nest.JS, React.JS and Next.JS etc.
-- 🌱 I’m currently learning Machine Learning and Mobile App development with React Native
+- 🔭 I’m experience on web development with Laravel, Nest.JS, React.JS and Next.JS etc.
+- 🌱 I have some experience on Odoo ERP development
 - 📫 You can reach me at: 
     - Email: thoeunsopheara@gmail.com
     - Telegram: [@thoeunsopheara](https://t.me/thoeunsopheara)
